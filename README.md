@@ -15,3 +15,5 @@ using airflow
 add the doc
 
 add the tools
+
+add apache nifi
