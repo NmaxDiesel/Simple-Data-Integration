@@ -17,3 +17,5 @@ add the doc
 add the tools
 
 add apache nifi
+
+adding the math equations
