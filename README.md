@@ -19,3 +19,5 @@ add the tools
 add apache nifi
 
 adding the math equations
+
+consider to use some improvitation
